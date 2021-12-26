@@ -7503,13 +7503,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "fake",
+		"player2": "pico",
 		"isHey": false,
 		"player3": null,
 		"cutsceneType": "none",
-		"song": "confronting yourself",
+		"song": "fresh",
 		"validScore": true,
-		"speed": 3.4,
+		"speed": 3.2,
 		"sectionLengths": [],
 		"isMoody": false,
 		"events": [
