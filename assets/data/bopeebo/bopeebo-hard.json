@@ -3855,10 +3855,10 @@
         "mustHitSection": true
       }
     ],
-    "song": "Disgust",
+    "song": "bopeebo",
     "validScore": true,
     "sections": 0,
-    "needsVoices": true,
+    "needsVoices": false,
     "speed": 2.5,
     "bpm": 145
   }
